@@ -7,20 +7,57 @@
   xmlns:media="http://search.yahoo.com/mrss/">
   <channel>
     <title>Categories on Sevi&#39;s Blog Page</title>
-    <link>http://www.sevi-the-weeb.com/categories/</link>
+    <link>https://www.sevi-the-weeb.com/categories/</link>
     <description>Recent content in Categories on Sevi&#39;s Blog Page</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <managingEditor>bela.richartz@thurweb.ch (Béla Richartz)</managingEditor>
     <webMaster>bela.richartz@thurweb.ch (Béla Richartz)</webMaster>
     <copyright>&amp;copy;{year}, All Rights Reserved</copyright>
+    <lastBuildDate>Fri, 20 Dec 2019 12:00:06 +0900</lastBuildDate>
     <sy:updatePeriod>weekly</sy:updatePeriod>
     
-        <atom:link href="http://www.sevi-the-weeb.com/categories/index.xml" rel="self" type="application/rss+xml" />
+        <atom:link href="https://www.sevi-the-weeb.com/categories/index.xml" rel="self" type="application/rss+xml" />
     
     
     
 
+      
+      <item>
+        <title>syntax</title>
+        <link>https://www.sevi-the-weeb.com/categories/syntax/</link>
+        <pubDate>Fri, 20 Dec 2019 12:00:06 +0900</pubDate>
+        <author>bela.richartz@thurweb.ch (Béla Richartz)</author>
+        
+        <guid>https://www.sevi-the-weeb.com/categories/syntax/</guid>
+        <description></description>
+        
+        <dc:creator>Béla Richartz</dc:creator>
+        
+        
+        
+        
+        
+        
+      </item>
+      
+      <item>
+        <title>themes</title>
+        <link>https://www.sevi-the-weeb.com/categories/themes/</link>
+        <pubDate>Fri, 20 Dec 2019 12:00:06 +0900</pubDate>
+        <author>bela.richartz@thurweb.ch (Béla Richartz)</author>
+        
+        <guid>https://www.sevi-the-weeb.com/categories/themes/</guid>
+        <description></description>
+        
+        <dc:creator>Béla Richartz</dc:creator>
+        
+        
+        
+        
+        
+        
+      </item>
       
 
     

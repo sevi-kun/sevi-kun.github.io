@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" 
+  xmlns:content="http://purl.org/rss/1.0/modules/content/" 
+  xmlns:dc="http://purl.org/dc/elements/1.1/" 
+  xmlns:atom="http://www.w3.org/2005/Atom" 
+  xmlns:sy="http://purl.org/rss/1.0/modules/syndication/" 
+  xmlns:media="http://search.yahoo.com/mrss/">
+  <channel>
+    <title>gamoji on Sevi&#39;s Blog Page</title>
+    <link>https://www.sevi-the-weeb.com/tags/gamoji/</link>
+    <description>Recent content in gamoji on Sevi&#39;s Blog Page</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <managingEditor>bela.richartz@thurweb.ch (Béla Richartz)</managingEditor>
+    <webMaster>bela.richartz@thurweb.ch (Béla Richartz)</webMaster>
+    <copyright>&amp;copy;{year}, All Rights Reserved</copyright>
+    <lastBuildDate>Mon, 16 Dec 2019 12:00:06 +0900</lastBuildDate>
+    <sy:updatePeriod>weekly</sy:updatePeriod>
+    
+        <atom:link href="https://www.sevi-the-weeb.com/tags/gamoji/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    
+
+      
+      <item>
+        <title>Emoji Support</title>
+        <link>https://www.sevi-the-weeb.com/posts/zzo-posts/emoji-support/</link>
+        <pubDate>Mon, 16 Dec 2019 12:00:06 +0900</pubDate>
+        <author>bela.richartz@thurweb.ch (Béla Richartz)</author>
+        <atom:modified>Mon, 16 Dec 2019 12:00:06 +0900</atom:modified>
+        <guid>https://www.sevi-the-weeb.com/posts/zzo-posts/emoji-support/</guid>
+        <description>&lt;p&gt;Emoji can be enabled in a Hugo project in a number of ways.&lt;/p&gt;</description>
+        
+        <dc:creator>Kim</dc:creator>
+        
+        
+        
+        
+          
+            
+              <category>emoji</category>
+            
+          
+            
+              <category>gamoji</category>
+            
+          
+            
+              <category>namoji</category>
+            
+          
+            
+              <category>bamoji</category>
+            
+          
+            
+              <category>amoji</category>
+            
+          
+        
+        
+        
+      </item>
+      
+
+    
+  </channel>
+</rss>

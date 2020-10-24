@@ -3,65 +3,138 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>http://www.sevi-the-weeb.com/showcase/hugo/hugo-theme-zzo/</loc>
+    <loc>https://www.sevi-the-weeb.com/showcase/hugo/hugo-theme-zzo/</loc>
     <lastmod>2020-01-19T21:13:42+09:00</lastmod>
   </url>
   
   <url>
-    <loc>http://www.sevi-the-weeb.com/showcase/hugo/hugo-theme-zdoc/</loc>
+    <loc>https://www.sevi-the-weeb.com/showcase/hugo/hugo-theme-zdoc/</loc>
     <lastmod>2020-01-19T21:13:42+09:00</lastmod>
   </url>
   
   <url>
-    <loc>http://www.sevi-the-weeb.com/</loc>
+    <loc>https://www.sevi-the-weeb.com/</loc>
     <lastmod>2020-10-23T17:44:57+02:00</lastmod>
   </url>
   
   <url>
-    <loc>http://www.sevi-the-weeb.com/posts/first-post/</loc>
+    <loc>https://www.sevi-the-weeb.com/posts/first-post/</loc>
     <lastmod>2020-10-23T17:44:57+02:00</lastmod>
   </url>
   
   <url>
-    <loc>http://www.sevi-the-weeb.com/posts/</loc>
+    <loc>https://www.sevi-the-weeb.com/posts/</loc>
     <lastmod>2020-10-23T17:44:57+02:00</lastmod>
   </url>
   
   <url>
-    <loc>http://www.sevi-the-weeb.com/showcase/hugo/</loc>
+    <loc>https://www.sevi-the-weeb.com/showcase/hugo/</loc>
     <lastmod>2020-01-19T21:04:11+09:00</lastmod>
   </url>
   
   <url>
-    <loc>http://www.sevi-the-weeb.com/showcase/</loc>
+    <loc>https://www.sevi-the-weeb.com/showcase/</loc>
     <lastmod>2020-01-19T15:43:38+09:00</lastmod>
   </url>
   
   <url>
-    <loc>http://www.sevi-the-weeb.com/archive/</loc>
+    <loc>https://www.sevi-the-weeb.com/categories/</loc>
+    <lastmod>2019-12-20T12:00:06+09:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.sevi-the-weeb.com/tags/css/</loc>
+    <lastmod>2019-12-20T12:00:06+09:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.sevi-the-weeb.com/tags/html/</loc>
+    <lastmod>2019-12-20T12:00:06+09:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.sevi-the-weeb.com/tags/markdown/</loc>
+    <lastmod>2019-12-20T12:00:06+09:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.sevi-the-weeb.com/posts/zzo-posts/markdown-syntax/</loc>
+    <lastmod>2019-12-20T12:00:06+09:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.sevi-the-weeb.com/series/</loc>
+    <lastmod>2019-12-20T12:00:06+09:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.sevi-the-weeb.com/categories/syntax/</loc>
+    <lastmod>2019-12-20T12:00:06+09:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.sevi-the-weeb.com/tags/</loc>
+    <lastmod>2019-12-20T12:00:06+09:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.sevi-the-weeb.com/tags/themes/</loc>
+    <lastmod>2019-12-20T12:00:06+09:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.sevi-the-weeb.com/categories/themes/</loc>
+    <lastmod>2019-12-20T12:00:06+09:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.sevi-the-weeb.com/series/themes-guide/</loc>
+    <lastmod>2019-12-20T12:00:06+09:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.sevi-the-weeb.com/tags/amoji/</loc>
+    <lastmod>2019-12-16T12:00:06+09:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.sevi-the-weeb.com/tags/bamoji/</loc>
+    <lastmod>2019-12-16T12:00:06+09:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.sevi-the-weeb.com/tags/emoji/</loc>
+    <lastmod>2019-12-16T12:00:06+09:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.sevi-the-weeb.com/posts/zzo-posts/emoji-support/</loc>
+    <lastmod>2019-12-16T12:00:06+09:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.sevi-the-weeb.com/tags/gamoji/</loc>
+    <lastmod>2019-12-16T12:00:06+09:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.sevi-the-weeb.com/tags/namoji/</loc>
+    <lastmod>2019-12-16T12:00:06+09:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.sevi-the-weeb.com/archive/</loc>
     <lastmod>2019-10-19T11:44:14+09:00</lastmod>
   </url>
   
   <url>
-    <loc>http://www.sevi-the-weeb.com/about/</loc>
+    <loc>https://www.sevi-the-weeb.com/about/</loc>
     <lastmod>2019-02-28T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>http://www.sevi-the-weeb.com/resume/</loc>
+    <loc>https://www.sevi-the-weeb.com/resume/</loc>
     <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>http://www.sevi-the-weeb.com/categories/</loc>
-  </url>
-  
-  <url>
-    <loc>http://www.sevi-the-weeb.com/series/</loc>
-  </url>
-  
-  <url>
-    <loc>http://www.sevi-the-weeb.com/tags/</loc>
   </url>
   
 </urlset>
