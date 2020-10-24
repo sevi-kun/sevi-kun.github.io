@@ -7,15 +7,16 @@
   xmlns:media="http://search.yahoo.com/mrss/">
   <channel>
     <title>Series on Sevi&#39;s Blog Page</title>
-    <link>http://sevi-kun.github.io/series/</link>
+    <link>http://www.sevi-the-weeb.com/series/</link>
     <description>Recent content in Series on Sevi&#39;s Blog Page</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <managingEditor>bela.richartz@thurweb.ch (sevi-kun)</managingEditor>
-    <webMaster>bela.richartz@thurweb.ch (sevi-kun)</webMaster>
+    <managingEditor>bela.richartz@thurweb.ch (Béla Richartz)</managingEditor>
+    <webMaster>bela.richartz@thurweb.ch (Béla Richartz)</webMaster>
     <copyright>&amp;copy;{year}, All Rights Reserved</copyright>
+    <sy:updatePeriod>weekly</sy:updatePeriod>
     
-        <atom:link href="http://sevi-kun.github.io/series/index.xml" rel="self" type="application/rss+xml" />
+        <atom:link href="http://www.sevi-the-weeb.com/series/index.xml" rel="self" type="application/rss+xml" />
     
     
     

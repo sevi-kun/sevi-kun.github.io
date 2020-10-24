@@ -7,16 +7,17 @@
   xmlns:media="http://search.yahoo.com/mrss/">
   <channel>
     <title>Hugo on Sevi&#39;s Blog Page</title>
-    <link>http://sevi-kun.github.io/showcase/hugo/</link>
+    <link>http://www.sevi-the-weeb.com/showcase/hugo/</link>
     <description>Recent content in Hugo on Sevi&#39;s Blog Page</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <managingEditor>bela.richartz@thurweb.ch (sevi-kun)</managingEditor>
-    <webMaster>bela.richartz@thurweb.ch (sevi-kun)</webMaster>
+    <managingEditor>bela.richartz@thurweb.ch (Béla Richartz)</managingEditor>
+    <webMaster>bela.richartz@thurweb.ch (Béla Richartz)</webMaster>
     <copyright>&amp;copy;{year}, All Rights Reserved</copyright>
     <lastBuildDate>Sun, 19 Jan 2020 21:04:11 +0900</lastBuildDate>
+    <sy:updatePeriod>weekly</sy:updatePeriod>
     
-        <atom:link href="http://sevi-kun.github.io/showcase/hugo/index.xml" rel="self" type="application/rss+xml" />
+        <atom:link href="http://www.sevi-the-weeb.com/showcase/hugo/index.xml" rel="self" type="application/rss+xml" />
     
     
     
@@ -24,14 +25,14 @@
       
       <item>
         <title>Hugo Zzo Theme</title>
-        <link>http://sevi-kun.github.io/showcase/hugo/hugo-theme-zzo/</link>
+        <link>http://www.sevi-the-weeb.com/showcase/hugo/hugo-theme-zzo/</link>
         <pubDate>Sun, 19 Jan 2020 21:13:42 +0900</pubDate>
-        <author>bela.richartz@thurweb.ch (sevi-kun)</author>
+        <author>bela.richartz@thurweb.ch (Béla Richartz)</author>
         <atom:modified>Sun, 19 Jan 2020 21:13:42 +0900</atom:modified>
-        <guid>http://sevi-kun.github.io/showcase/hugo/hugo-theme-zzo/</guid>
+        <guid>http://www.sevi-the-weeb.com/showcase/hugo/hugo-theme-zzo/</guid>
         <description></description>
         
-        <dc:creator>sevi-kun</dc:creator>
+        <dc:creator>Béla Richartz</dc:creator>
         
         
         
@@ -42,14 +43,14 @@
       
       <item>
         <title>Hugo zDoc Theme</title>
-        <link>http://sevi-kun.github.io/showcase/hugo/hugo-theme-zdoc/</link>
+        <link>http://www.sevi-the-weeb.com/showcase/hugo/hugo-theme-zdoc/</link>
         <pubDate>Sun, 19 Jan 2020 21:13:42 +0900</pubDate>
-        <author>bela.richartz@thurweb.ch (sevi-kun)</author>
+        <author>bela.richartz@thurweb.ch (Béla Richartz)</author>
         <atom:modified>Sun, 19 Jan 2020 21:13:42 +0900</atom:modified>
-        <guid>http://sevi-kun.github.io/showcase/hugo/hugo-theme-zdoc/</guid>
+        <guid>http://www.sevi-the-weeb.com/showcase/hugo/hugo-theme-zdoc/</guid>
         <description></description>
         
-        <dc:creator>sevi-kun</dc:creator>
+        <dc:creator>Béla Richartz</dc:creator>
         
         
         
