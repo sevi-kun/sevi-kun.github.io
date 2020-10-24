@@ -38,91 +38,6 @@
   </url>
   
   <url>
-    <loc>https://www.sevi-the-weeb.com/categories/</loc>
-    <lastmod>2019-12-20T12:00:06+09:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://www.sevi-the-weeb.com/tags/css/</loc>
-    <lastmod>2019-12-20T12:00:06+09:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://www.sevi-the-weeb.com/tags/html/</loc>
-    <lastmod>2019-12-20T12:00:06+09:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://www.sevi-the-weeb.com/tags/markdown/</loc>
-    <lastmod>2019-12-20T12:00:06+09:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://www.sevi-the-weeb.com/posts/zzo-posts/markdown-syntax/</loc>
-    <lastmod>2019-12-20T12:00:06+09:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://www.sevi-the-weeb.com/series/</loc>
-    <lastmod>2019-12-20T12:00:06+09:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://www.sevi-the-weeb.com/categories/syntax/</loc>
-    <lastmod>2019-12-20T12:00:06+09:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://www.sevi-the-weeb.com/tags/</loc>
-    <lastmod>2019-12-20T12:00:06+09:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://www.sevi-the-weeb.com/tags/themes/</loc>
-    <lastmod>2019-12-20T12:00:06+09:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://www.sevi-the-weeb.com/categories/themes/</loc>
-    <lastmod>2019-12-20T12:00:06+09:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://www.sevi-the-weeb.com/series/themes-guide/</loc>
-    <lastmod>2019-12-20T12:00:06+09:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://www.sevi-the-weeb.com/tags/amoji/</loc>
-    <lastmod>2019-12-16T12:00:06+09:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://www.sevi-the-weeb.com/tags/bamoji/</loc>
-    <lastmod>2019-12-16T12:00:06+09:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://www.sevi-the-weeb.com/tags/emoji/</loc>
-    <lastmod>2019-12-16T12:00:06+09:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://www.sevi-the-weeb.com/posts/zzo-posts/emoji-support/</loc>
-    <lastmod>2019-12-16T12:00:06+09:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://www.sevi-the-weeb.com/tags/gamoji/</loc>
-    <lastmod>2019-12-16T12:00:06+09:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://www.sevi-the-weeb.com/tags/namoji/</loc>
-    <lastmod>2019-12-16T12:00:06+09:00</lastmod>
-  </url>
-  
-  <url>
     <loc>https://www.sevi-the-weeb.com/archive/</loc>
     <lastmod>2019-10-19T11:44:14+09:00</lastmod>
   </url>
@@ -135,6 +50,18 @@
   <url>
     <loc>https://www.sevi-the-weeb.com/resume/</loc>
     <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://www.sevi-the-weeb.com/categories/</loc>
+  </url>
+  
+  <url>
+    <loc>https://www.sevi-the-weeb.com/series/</loc>
+  </url>
+  
+  <url>
+    <loc>https://www.sevi-the-weeb.com/tags/</loc>
   </url>
   
 </urlset>
