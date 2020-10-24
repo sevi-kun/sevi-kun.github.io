@@ -51,7 +51,7 @@
         <author>bela.richartz@thurweb.ch (Béla Richartz)</author>
         <atom:modified>Fri, 23 Oct 2020 17:44:57 +0200</atom:modified>
         <guid>https://www.sevi-the-weeb.com/posts/first-post/</guid>
-        <description></description>
+        <description>Some text.</description>
         
         <dc:creator>Béla Richartz</dc:creator>
         <media:content url="https://www.sevi-the-weeb.comimages/feature4/party.png" medium="image"><media:title type="html">featured image</media:title></media:content>
