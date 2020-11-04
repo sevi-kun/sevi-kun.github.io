@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  
+  <url>
+    <loc>https://www.sevi-kun.ch/de/categories/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://www.sevi-kun.ch/en/categories/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="de"
+                href="https://www.sevi-kun.ch/de/categories/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://www.sevi-kun.ch/de/series/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://www.sevi-kun.ch/en/series/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="de"
+                href="https://www.sevi-kun.ch/de/series/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://www.sevi-kun.ch/de/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://www.sevi-kun.ch/en/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="de"
+                href="https://www.sevi-kun.ch/de/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://www.sevi-kun.ch/de/tags/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://www.sevi-kun.ch/en/tags/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="de"
+                href="https://www.sevi-kun.ch/de/tags/"
+                />
+  </url>
+  
+</urlset>

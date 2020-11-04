@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  
+  <url>
+    <loc>https://www.sevi-kun.ch/en/resume/</loc>
+    <lastmod>2020-10-28T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.sevi-kun.ch/en/</loc>
+    <lastmod>2020-10-23T17:44:57+02:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="de"
+                href="https://www.sevi-kun.ch/de/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://www.sevi-kun.ch/en/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://www.sevi-kun.ch/en/posts/first-post/</loc>
+    <lastmod>2020-10-23T17:44:57+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.sevi-kun.ch/en/posts/</loc>
+    <lastmod>2020-10-23T17:44:57+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.sevi-kun.ch/en/archive/</loc>
+    <lastmod>2019-10-19T11:44:14+09:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.sevi-kun.ch/en/about/</loc>
+    <lastmod>2019-02-28T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.sevi-kun.ch/en/categories/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="de"
+                href="https://www.sevi-kun.ch/de/categories/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://www.sevi-kun.ch/en/categories/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://www.sevi-kun.ch/en/series/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="de"
+                href="https://www.sevi-kun.ch/de/series/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://www.sevi-kun.ch/en/series/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://www.sevi-kun.ch/en/tags/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="de"
+                href="https://www.sevi-kun.ch/de/tags/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://www.sevi-kun.ch/en/tags/"
+                />
+  </url>
+  
+</urlset>
